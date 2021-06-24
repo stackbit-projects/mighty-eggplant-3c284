@@ -14,6 +14,6 @@ menu:
 ---
 Bunda do otako foi criado no telegram e agora em site.
 
-#### Sobre o tema:                    
+Sobre o tema:                    
 Esse site foi criado a partir do tema stack usando hugo. 
 Fontes: [GIT](https://github.com/CaiJimmy/hugo-theme-stack) | [Documentação](https://docs.stack.jimmycai.com/)
