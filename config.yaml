@@ -5,7 +5,7 @@ paginate: 5
 title: Bunda do otako
 disqusShortname: hugo-theme-stack
 googleAnalytics: null
-DefaultContentLanguage: en
+DefaultContentLanguage: pt-br
 permalinks:
   post: '/p/:slug/'
   page: '/:slug/'
